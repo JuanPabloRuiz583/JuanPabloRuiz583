@@ -12,18 +12,14 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a></p>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats
+
 <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=JuanPabloRuiz583&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=JuanPabloRuiz583&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloRuiz583&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     </td>
   </tr>
